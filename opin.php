@@ -1046,6 +1046,7 @@
     width: 60% !important;
 }" _ngcontent-c29="" class="wizard-step-content-title">
 										<span _ngcontent-c29="" >Es hora de usar su dispositivo de seguridad Mobile Token</span>
+										<br>	<br>
 										<span _ngcontent-c37="" class="pop">Ingrese el código que aparece en la app</span>
 
 										    <style>
